@@ -4,5 +4,6 @@ public class SampleProject1 {
 	public static void main(String[] args) {
 		System.out.println("Java");
 		System.out.println("Application");
+		System.out.println("New Changes");
 	}
 }
